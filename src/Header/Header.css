@@ -155,7 +155,7 @@ color:#fff;
     .show-menu{
         position:fixed;
         background-color:hsl(190,64%,22%);
-        top:11.5%;
+        top:4.5rem;
         left:0%;
         height:100vh;
         width:70%;
